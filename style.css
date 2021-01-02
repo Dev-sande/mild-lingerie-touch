@@ -1,0 +1,62 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-size: 27px;
+    margin: auto;
+    color: #a9294f;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+.centre{
+    text-align: center;
+    padding: 10px;
+}
+
+
+.btn{
+    display: inline-block;
+    background-color:#a9294f;
+    color:#eff8ff ;
+    text-decoration-color: #eff8ff;
+    justify-content: center;
+    text-align: center;
+}
+.social{
+    color: #a9294f;
+    margin: auto;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.card{
+    margin-bottom: 30px;
+    background-color: #eff8ff;
+    margin: auto;
+}
+.pay{
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+.logo{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
